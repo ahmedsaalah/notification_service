@@ -1,0 +1,9 @@
+{
+    "env": "development",
+    "dbConfig": {
+        "host": "172.21.0.4",
+        "database": "mongoose",
+        "port": 27017
+    },
+    "secretKey": "secretKey"
+}
